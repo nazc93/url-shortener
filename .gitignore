@@ -4,3 +4,6 @@
 .docker-compose.yml
 .venv
 .pytest_cache
+.DS_Store
+backend/.DS_Store
+backend/app/.DS_Store
